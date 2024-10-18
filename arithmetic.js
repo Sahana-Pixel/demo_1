@@ -17,5 +17,8 @@ function add(a, b) {
     add,
     subtract,
     multiply,
-    divide
+    divide,
+    
 };
+
+console.log("meow")
